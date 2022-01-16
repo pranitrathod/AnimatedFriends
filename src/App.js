@@ -34,7 +34,7 @@ class App extends Component{
         <SearchBox searchChange={this.OnSearchChange}/>
         <hr/>
 <CardList robots={FilterRobots}/>
-    <footer className='f4 pa3'><i>Made by Pranit Rathod :)</i></footer>
+    <footer className='f4 pa2'><i>Made by Pranit Rathod :)</i></footer>
     </div>
     );
 
